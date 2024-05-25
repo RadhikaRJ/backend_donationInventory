@@ -8,7 +8,8 @@ const data = require("./data");
 app.use(express.json());
 app.use(cors());
 
-// Create
+//direct routing as the functionality is limited in this case
+// Create a new entry
 app.post("/donations", (req, res) => {
   try {
     const newDonation = req.body;
