@@ -1,0 +1,10 @@
+Steps to run the Donation Inventory full stack application on your local machine:
+1. clone backend node.js server repository from github https://github.com/RadhikaRJ/backend_donationInventory
+2. unzip and open a terminal at path /backend_donationInventory/donationInventory
+3. run the command `node index.js`
+4. the backend server will run on localhost:3000
+5. Next, download or clone the frontend repository https://github.com/RadhikaRJ/donationinventory
+6. Unzip the code open the appliation in VSCode or IDE of your choice
+7. In the terminal of the  IDE run the command `npm run start`
+8. When prompted to run the frontend application on another port, enter "yes" in the terminal.
+9. A web browser tab will open up launching the frontend.
