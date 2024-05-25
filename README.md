@@ -1,6 +1,4 @@
-# Backend Application README
-
-This repository contains the backend codebase for Local Shelter Donor Inventory Project.
+##### This repository contains the backend codebase for Local Shelter Donor Inventory Project.
 
 ## Prerequisites
 
